@@ -38,8 +38,8 @@
     text-transform: capitalize;
   }
   .right a:hover {
-      font-size: 10px;
-      padding: 5px 5px;
+      font-size: 13px;
+    
     }
     .right a:hover,.logo a:hover {
         color: rgba(241, 53, 53, 0.767);
