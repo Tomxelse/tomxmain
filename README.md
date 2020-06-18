@@ -1,3 +1,3 @@
 # Gallery-Landing-Page-
-Pure HTML ,CSS &amp; JS landing page template 
+Pure HTML & CSS landing page template 
 
